@@ -1,0 +1,13 @@
+Removed Member From Class: ClassName=FPGA_Banks1 Member=U?
+Removed Member From Class: ClassName=PWR_APD5052 Member=U?
+Change Component Designator: OldDesignator=* NewDesignator=J2
+Change Component Designator: OldDesignator=* NewDesignator=J3
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Member To Class: ClassName=SFP Member=Component J2 SFP+
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component U1 XC7A35T-1FGG484C
+Added Member To Class: ClassName=PWR_APD5052 Member=Component U2 ADP5052ACPZ-R7
+Added Member To Class: ClassName=Regulators Member=Component U? ADP123AUJZ-R7
+Added Member To Class: ClassName=Regulators Member=Component U? ADP123AUJZ-R7
+Added Member To Class: ClassName=Regulators Member=Component U? ADP2384ACPZN-R7
+Added Member To Class: ClassName=Regulators Member=Component U? ADP123AUJZ-R7
