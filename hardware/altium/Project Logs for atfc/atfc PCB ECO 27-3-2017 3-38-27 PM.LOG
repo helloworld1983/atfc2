@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SFP1_RD_N Pin=J3-12
+Removed Pin From Net: NetName=SFP1_RD_P Pin=J3-13
+Removed Pin From Net: NetName=SFP1_TD_P Pin=J3-18
+Removed Pin From Net: NetName=SFP1_TD_N Pin=J3-19
+Removed Pin From Net: NetName=SFP2_RD_N Pin=J4-12
+Removed Pin From Net: NetName=SFP2_RD_P Pin=J4-13
+Removed Pin From Net: NetName=SFP2_TD_P Pin=J4-18
+Removed Pin From Net: NetName=SFP2_TD_N Pin=J4-19
+Added Pin To Net: NetName=SFP2_RD_N Pin=J3-12
+Added Pin To Net: NetName=SFP2_RD_P Pin=J3-13
+Added Pin To Net: NetName=SFP2_TD_P Pin=J3-18
+Added Pin To Net: NetName=SFP2_TD_N Pin=J3-19
+Added Pin To Net: NetName=SFP1_RD_N Pin=J4-12
+Added Pin To Net: NetName=SFP1_RD_P Pin=J4-13
+Added Pin To Net: NetName=SFP1_TD_P Pin=J4-18
+Added Pin To Net: NetName=SFP1_TD_N Pin=J4-19

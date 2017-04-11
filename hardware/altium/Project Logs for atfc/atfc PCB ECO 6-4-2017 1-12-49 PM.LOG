@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VADJ_I_MON Pin=U2-G15
+Removed Pin From Net: NetName=12V0_I_MON Pin=U2-J15
+Added Pin To Net: NetName=12V0_I_MON Pin=U2-G15
+Added Pin To Net: NetName=VADJ_I_MON Pin=U2-J15

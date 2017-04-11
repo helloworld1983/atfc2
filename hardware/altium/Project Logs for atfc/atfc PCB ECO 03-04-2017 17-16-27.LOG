@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=FMC_LA05_P Pin=U2-G2
+Removed Pin From Net: NetName=FMC_LA05_N Pin=U2-H2
+Added Pin To Net: NetName=FMC_LA05_N Pin=U2-G2
+Added Pin To Net: NetName=FMC_LA05_P Pin=U2-H2
+Added Member To Class: ClassName=FMC Member=Component J1 ASP-134603-01

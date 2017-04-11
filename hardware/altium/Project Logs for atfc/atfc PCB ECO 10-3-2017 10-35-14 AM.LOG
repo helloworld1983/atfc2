@@ -1,0 +1,69 @@
+Change Component Footprint: Designator=C75 Old Footprint=C0805 New Footprint=C7343
+Change Component Footprint: Designator=Cout4 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=Cout5 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=Cout6 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=Cout7 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=Cout8 Old Footprint=C1210 New Footprint=C0603
+Change Component Footprint: Designator=Cout1 Old Footprint=C1210 New Footprint=C1206
+Change Component Footprint: Designator=Cout2 Old Footprint=C1210 New Footprint=C1206
+Change Component Footprint: Designator=Cout3 Old Footprint=C1210 New Footprint=C1206
+Change Component Comment : Designator=Cout1 Old Comment=Cap New Comment=GRM31CR60J107ME39
+Change Component Comment : Designator=Cout2 Old Comment=Cap New Comment=GRM31CR60J107ME39
+Change Component Comment : Designator=Cout3 Old Comment=Cap New Comment=GRM31CR60J107ME39
+Change Component Comment : Designator=Cout5 Old Comment=Cap New Comment=GRM188R60J226MEA0
+Change Component Comment : Designator=Cout6 Old Comment=Cap New Comment=GRM188R60J226MEA0
+Change Component Comment : Designator=Cout7 Old Comment=Cap New Comment=GRM188R60J226MEA0
+Change Component Comment : Designator=Cout8 Old Comment=Cap New Comment=GRM188R60J226MEA0
+Change Component Comment : Designator=C75 Old Comment=Cap Pol3 New Comment=T491X687K006AT
+Change Component Comment : Designator=L2 Old Comment=Inductor New Comment=MSS1048-152NL
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=MSS1048-332NL
+Change Component Comment : Designator=L3 Old Comment=Inductor New Comment=MSS1048-472NL
+Change Component Comment : Designator=L4 Old Comment=Inductor New Comment=MSS1048-472NL
+Added Component: Designator=Cp1(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Cp2(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Cp3(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=Cp4(C0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Cp1-1
+Added Pin To Net: NetName=NetCc1_2 Pin=Cp1-2
+Added Pin To Net: NetName=GND Pin=Cp2-1
+Added Pin To Net: NetName=NetCc2_2 Pin=Cp2-2
+Added Pin To Net: NetName=GND Pin=Cp3-1
+Added Pin To Net: NetName=NetCc3_2 Pin=Cp3-2
+Added Pin To Net: NetName=GND Pin=Cp4-1
+Added Pin To Net: NetName=NetCc4_2 Pin=Cp4-2
+Added Member To Class: ClassName=PWR_APD5052 Member=Component Cp1 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component Cp2 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component Cp3 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component Cp4 No Load

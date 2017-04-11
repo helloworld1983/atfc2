@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VADJ+ Pin=R79-3
+Removed Pin From Net: NetName=VADJ- Pin=R79-4
+Change Component Comment : Designator=R79 Old Comment=Rsense New Comment=Res
+Added Component: Designator=k1(kelvinconnection)
+Add component. Clean all parameters for all variants
+Added Component: Designator=k1(kelvinconnection)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VADJ+ Pin=k1-1
+Added Pin To Net: NetName=VADJ Pin=k1-1
+Added Pin To Net: NetName=NetC106_1 Pin=k1-2
+Added Pin To Net: NetName=VADJ- Pin=k1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R55-1
+Added Pin To Net: NetName=VCC12V0 Pin=R55-2
+Added Pin To Net: NetName=NetC80_2 Pin=R62-1
+Added Pin To Net: NetName=VCC3V3 Pin=R62-2
+Added Member To Class: ClassName=Regulators Member=Component k1 kelvinconnection
+Added Member To Class: ClassName=Regulators Member=Component k1 kelvinconnection

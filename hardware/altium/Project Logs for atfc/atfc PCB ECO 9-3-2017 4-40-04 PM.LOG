@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetCbst2_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetCbst1_2 Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q2-5
+Removed Pin From Net: NetName=GND Pin=Q2-5
+Removed Pin From Net: NetName=GND Pin=Q2-5
+Removed Pin From Net: NetName=GND Pin=Q2-6
+Removed Pin From Net: NetName=GND Pin=Q2-6
+Removed Pin From Net: NetName=GND Pin=Q2-6
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=NetCbst2_1 Pin=Q2-5
+Added Pin To Net: NetName=NetCbst2_1 Pin=Q2-5
+Added Pin To Net: NetName=NetCbst2_1 Pin=Q2-5
+Added Pin To Net: NetName=NetCbst1_2 Pin=Q2-6
+Added Pin To Net: NetName=NetCbst1_2 Pin=Q2-6
+Added Pin To Net: NetName=NetCbst1_2 Pin=Q2-6

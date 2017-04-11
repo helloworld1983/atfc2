@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=U2-A10
+Removed Pin From Net: NetName=GND Pin=U2-B10
+Removed Pin From Net: NetName=SFP2_TD_N Pin=U2-C5
+Removed Pin From Net: NetName=SFP2_RD_N Pin=U2-C11
+Removed Pin From Net: NetName=SFP2_TD_P Pin=U2-D5
+Removed Pin From Net: NetName=SFP2_RD_P Pin=U2-D11
+Added Pin To Net: NetName=SFP2_TD_N Pin=U2-A6
+Added Pin To Net: NetName=SFP2_RD_N Pin=U2-A10
+Added Pin To Net: NetName=SFP2_TD_P Pin=U2-B6
+Added Pin To Net: NetName=SFP2_RD_P Pin=U2-B10
+Added Pin To Net: NetName=GND Pin=U2-C11
+Added Pin To Net: NetName=GND Pin=U2-D11

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=RGB_G1 Pin=U2-E17
+Added Pin To Net: NetName=RGB_G1 Pin=U2-C14

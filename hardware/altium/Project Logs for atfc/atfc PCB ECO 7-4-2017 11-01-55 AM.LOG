@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=PGOOD_VADJ Pin=R80-1
+Removed Pin From Net: NetName=Vreg Pin=R80-2
+Removed Member From Class: ClassName=Regulators Member=R80
+Added Pin To Net: NetName=PGOOD_VADJ Pin=J1-D1
+Added Pin To Net: NetName=PGOOD_VADJ Pin=R17-1

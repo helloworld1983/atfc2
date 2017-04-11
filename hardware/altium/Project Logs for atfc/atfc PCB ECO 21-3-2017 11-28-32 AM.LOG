@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetC106_2 Pin=Cout1-1
+Removed Pin From Net: NetName=NetC106_2 Pin=Cout2-1
+Removed Member From Class: ClassName=PWR_APD5052 Member=R94
+Change Component Comment : Designator=J2 Old Comment=PWR2.5 New Comment=694108301002
+Added Pin To Net: NetName=GND Pin=Cout1-1
+Added Pin To Net: NetName=GND Pin=Cout2-1
+Added Pin To Net: NetName=VCC12V0+ Pin=R55-1
+Added Pin To Net: NetName=VCC12V0- Pin=R55-2
+Added Pin To Net: NetName=VCC3V3+ Pin=R62-1
+Added Pin To Net: NetName=VCC3V3- Pin=R62-2
+Added Pin To Net: NetName=VADJ+ Pin=R79-1
+Added Pin To Net: NetName=VADJ- Pin=R79-2

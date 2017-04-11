@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=VADJ Pin=C37-1
+Removed Pin From Net: NetName=GND Pin=C37-2
+Removed Pin From Net: NetName=VCC3V3 Pin=C44-1
+Removed Pin From Net: NetName=GND Pin=C44-2
+Removed Member From Class: ClassName=FPGA_PWR Member=C30
+Removed Member From Class: ClassName=FPGA_PWR Member=C37
+Removed Member From Class: ClassName=FPGA_PWR Member=C44

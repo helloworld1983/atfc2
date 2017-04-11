@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FMC_LA14_N Pin=U2-D2
+Removed Pin From Net: NetName=FMC_LA14_P Pin=U2-E2
+Added Pin To Net: NetName=FMC_LA14_N Pin=U2-N2
+Added Pin To Net: NetName=FMC_LA14_P Pin=U2-P2

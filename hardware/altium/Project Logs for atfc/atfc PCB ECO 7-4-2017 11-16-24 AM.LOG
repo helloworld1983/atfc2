@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SCL Pin=U2-AB21
+Removed Pin From Net: NetName=SDA Pin=U2-AB22
+Change Component Footprint: Designator=R35 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=R36 Old Footprint=R0603 New Footprint=R0402
+Added Pin To Net: NetName=SDA Pin=U2-AB21
+Added Pin To Net: NetName=SCL Pin=U2-AB22

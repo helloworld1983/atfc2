@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C106 Old Footprint=C0603 New Footprint=C0402
+Change Component Footprint: Designator=Rf1 Old Footprint=R0603 New Footprint=R0402
+Added Pin To Net: NetName=VCC12V0+ Pin=R55-1
+Added Pin To Net: NetName=VCC12V0- Pin=R55-2
+Added Pin To Net: NetName=VCC3V3+ Pin=R62-1
+Added Pin To Net: NetName=VCC3V3- Pin=R62-2
+Added Pin To Net: NetName=VADJ+ Pin=R79-1
+Added Pin To Net: NetName=VADJ- Pin=R79-2

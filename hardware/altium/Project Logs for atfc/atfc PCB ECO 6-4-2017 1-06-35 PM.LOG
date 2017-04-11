@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC1V8_MON Pin=U2-G15
+Removed Pin From Net: NetName=VADJ_I_MON Pin=U2-J22
+Change Component Comment : Designator=J3 Old Comment=* New Comment=74441-0001
+Change Component Comment : Designator=J4 Old Comment=* New Comment=74441-0001
+Added Pin To Net: NetName=VADJ_I_MON Pin=U2-G15
+Added Pin To Net: NetName=VCC1V8_MON Pin=U2-J22

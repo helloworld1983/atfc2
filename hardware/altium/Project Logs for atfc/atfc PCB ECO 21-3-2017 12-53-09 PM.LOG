@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=R79 Old Footprint=R0402 New Footprint=LRMA1206
+Change Component Footprint: Designator=Rin1 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=Rin2 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=Rout1 Old Footprint=R0603 New Footprint=R0402
+Change Component Footprint: Designator=Rout2 Old Footprint=R0603 New Footprint=R0402
+Change Component Comment : Designator=R55 Old Comment=Res_sense New Comment=LRMAM1206-R02FT5
+Change Component Comment : Designator=R62 Old Comment=Rsense New Comment=LRMAM1206-R02FT5
+Change component parameters: Designator = "R55"; Footprint = "R0805"; UniqueID = "\UUJPBWHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0R02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R62"; Footprint = "R0402"; UniqueID = "\ILTLATRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0R02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R79"; Footprint = "LRMA1206"; UniqueID = "\TIJFXNAD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0R02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rin1"; Footprint = "R0402"; UniqueID = "\IHKJFEVE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rin2"; Footprint = "R0402"; UniqueID = "\WUBOJTKB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rin3"; Footprint = "R0402"; UniqueID = "\OVOVYRAF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "50R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rout1"; Footprint = "R0402"; UniqueID = "\DKFHHSOG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rout2"; Footprint = "R0402"; UniqueID = "\GEWFHVKG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Rout3"; Footprint = "R0402"; UniqueID = "\TWDUQHDF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC12V0+ Pin=R55-1
+Added Pin To Net: NetName=VCC12V0- Pin=R55-2
+Added Pin To Net: NetName=VCC3V3+ Pin=R62-1
+Added Pin To Net: NetName=VCC3V3- Pin=R62-2
+Added Pin To Net: NetName=VADJ+ Pin=R79-3
+Added Pin To Net: NetName=VADJ- Pin=R79-4

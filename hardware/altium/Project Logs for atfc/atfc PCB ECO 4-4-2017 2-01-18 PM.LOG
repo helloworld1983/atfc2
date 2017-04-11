@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SFP2_TX_FAULT Pin=U2-D22
+Removed Pin From Net: NetName=SFP2_TX_EN Pin=U2-E22
+Added Pin To Net: NetName=SFP2_TX_FAULT Pin=U2-A20
+Added Pin To Net: NetName=SFP2_TX_EN Pin=U2-B20

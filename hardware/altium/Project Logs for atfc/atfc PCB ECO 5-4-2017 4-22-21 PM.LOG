@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-1
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-2
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-3
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-4
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-5
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-6
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-7
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-8
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-9
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-10
+Removed Pin From Net: NetName=GND Pin=SFPCAGE2-11
+Removed Member From Class: ClassName=SFP Member=SFPCAGE2
+Change Component Footprint: Designator=SFPCAGE1 Old Footprint=SFPcage New Footprint=SFPcage - dual
+Change Component Comment : Designator=SFPCAGE1 Old Comment=SFP+cage New Comment=747540220
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-12
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-13
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-14
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-15

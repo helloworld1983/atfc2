@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VCC3V3 Pin=R15-2
+Removed Pin From Net: NetName=BTN_RESETN Pin=U2-J16
+Added Pin To Net: NetName=VADJ Pin=R15-2
+Added Pin To Net: NetName=BTN_RESETN Pin=U2-Y2

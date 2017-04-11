@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VREF_A_M2C Pin=U2-V3
+Added Pin To Net: NetName=VREF_A_M2C Pin=U2-E3

@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SFP1_LOS Pin=U2-B16
+Added Pin To Net: NetName=SFP1_LOS Pin=U2-B17

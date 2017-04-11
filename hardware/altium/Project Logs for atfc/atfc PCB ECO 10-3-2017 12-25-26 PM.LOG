@@ -1,0 +1,356 @@
+Change Component Designator: OldDesignator=Cbst1 NewDesignator=C115
+Change Component Designator: OldDesignator=Cbst2 NewDesignator=C121
+Change Component Designator: OldDesignator=Cbst3 NewDesignator=C125
+Change Component Designator: OldDesignator=Cbst4 NewDesignator=C130
+Change Component Designator: OldDesignator=Cc1 NewDesignator=C114
+Change Component Designator: OldDesignator=Cc2 NewDesignator=C120
+Change Component Designator: OldDesignator=Cc3 NewDesignator=C123
+Change Component Designator: OldDesignator=Cc4 NewDesignator=C129
+Change Component Designator: OldDesignator=Cin1 NewDesignator=C108
+Change Component Designator: OldDesignator=Cin2 NewDesignator=C109
+Change Component Designator: OldDesignator=Cin3 NewDesignator=C110
+Change Component Designator: OldDesignator=Cin4 NewDesignator=C111
+Change Component Designator: OldDesignator=Cin5 NewDesignator=C112
+Change Component Designator: OldDesignator=Cout1 NewDesignator=C116
+Change Component Designator: OldDesignator=Cout2 NewDesignator=C117
+Change Component Designator: OldDesignator=Cout3 NewDesignator=C118
+Change Component Designator: OldDesignator=Cout4 NewDesignator=C124
+Change Component Designator: OldDesignator=Cout5 NewDesignator=C126
+Change Component Designator: OldDesignator=Cout6 NewDesignator=C127
+Change Component Designator: OldDesignator=Cout7 NewDesignator=C131
+Change Component Designator: OldDesignator=Cout8 NewDesignator=C132
+Change Component Designator: OldDesignator=Cout9 NewDesignator=C133
+Change Component Designator: OldDesignator=Cp1 NewDesignator=C113
+Change Component Designator: OldDesignator=Cp2 NewDesignator=C119
+Change Component Designator: OldDesignator=Cp3 NewDesignator=C122
+Change Component Designator: OldDesignator=Cp4 NewDesignator=C128
+Change Component Designator: OldDesignator=Cv1 NewDesignator=C134
+Change Component Designator: OldDesignator=Cvreg1 NewDesignator=C135
+Change Component Designator: OldDesignator=R58 NewDesignator=R94
+Change Component Designator: OldDesignator=Rc1 NewDesignator=R78
+Change Component Designator: OldDesignator=Rc2 NewDesignator=R82
+Change Component Designator: OldDesignator=Rc3 NewDesignator=R84
+Change Component Designator: OldDesignator=Rc4 NewDesignator=R88
+Change Component Designator: OldDesignator=Rf1 NewDesignator=R58
+Change Component Designator: OldDesignator=Rf2 NewDesignator=R79
+Change Component Designator: OldDesignator=Rf3 NewDesignator=R83
+Change Component Designator: OldDesignator=Rf4 NewDesignator=R85
+Change Component Designator: OldDesignator=Rf5 NewDesignator=R86
+Change Component Designator: OldDesignator=Rf6 NewDesignator=R87
+Change Component Designator: OldDesignator=Rf7 NewDesignator=R89
+Change Component Designator: OldDesignator=Rf8 NewDesignator=R90
+Change Component Designator: OldDesignator=Rf9 NewDesignator=R91
+Change Component Designator: OldDesignator=Rf10 NewDesignator=R92
+Change Component Designator: OldDesignator=Rlim1 NewDesignator=R80
+Change Component Designator: OldDesignator=Rlim2 NewDesignator=R81
+Change Component Designator: OldDesignator=Rt1 NewDesignator=R93
+Change Net Name : Old Net Name=NetCbst1_1 New Net Name=NetC115_1
+Change Net Name : Old Net Name=NetCbst1_2 New Net Name=NetC115_2
+Change Net Name : Old Net Name=NetCbst2_1 New Net Name=NetC121_1
+Change Net Name : Old Net Name=NetCbst2_2 New Net Name=NetC121_2
+Change Net Name : Old Net Name=NetCbst3_1 New Net Name=NetC125_1
+Change Net Name : Old Net Name=NetCbst3_2 New Net Name=NetC125_2
+Change Net Name : Old Net Name=NetCbst4_1 New Net Name=NetC130_1
+Change Net Name : Old Net Name=NetCbst4_2 New Net Name=NetC130_2
+Change Net Name : Old Net Name=NetCc1_1 New Net Name=NetC114_1
+Change Net Name : Old Net Name=NetCc1_2 New Net Name=NetC113_2
+Change Net Name : Old Net Name=NetCc2_1 New Net Name=NetC120_1
+Change Net Name : Old Net Name=NetCc2_2 New Net Name=NetC119_2
+Change Net Name : Old Net Name=NetCc3_1 New Net Name=NetC123_1
+Change Net Name : Old Net Name=NetCc3_2 New Net Name=NetC122_2
+Change Net Name : Old Net Name=NetCc4_1 New Net Name=NetC129_1
+Change Net Name : Old Net Name=NetCc4_2 New Net Name=NetC128_2
+Change Net Name : Old Net Name=NetCv1_2 New Net Name=NetC134_2
+Change Net Name : Old Net Name=NetRf1_1 New Net Name=NetR58_1
+Change Net Name : Old Net Name=NetRf3_1 New Net Name=NetR83_1
+Change Net Name : Old Net Name=NetRf5_1 New Net Name=NetR86_1
+Change Net Name : Old Net Name=NetRf7_1 New Net Name=NetR89_1
+Change Net Name : Old Net Name=NetRf8_1 New Net Name=NetR90_1
+Change Net Name : Old Net Name=NetRt1_2 New Net Name=NetR93_2
+Added Member To Class: ClassName=Config Member=Component B1 B3S-1002
+Added Member To Class: ClassName=Config Member=Component B2 B3S-1002
+Added Member To Class: ClassName=Config Member=Component C1 Cap
+Added Member To Class: ClassName=Config Member=Component C2 Cap
+Added Member To Class: ClassName=FMC Member=Component C3 Cap
+Added Member To Class: ClassName=FMC Member=Component C4 Cap
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component C5 Cap
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component C6 Cap
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component C7 Cap
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component C8 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C9 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C10 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C11 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C12 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C13 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C14 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C15 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C16 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C17 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C18 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C19 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C20 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C21 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C22 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C23 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C24 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C25 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C26 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C27 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C28 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C29 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C30 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C31 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C32 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C33 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C34 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C35 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C36 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C37 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C38 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C39 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C40 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C41 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C42 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C43 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C44 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C45 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C46 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C47 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C48 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C49 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C50 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C51 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C52 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C53 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C54 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C55 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C56 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C57 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C58 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C59 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C60 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C61 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C62 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C63 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C64 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C65 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C66 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C67 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C68 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C69 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C70 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C71 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C72 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C73 Cap
+Added Member To Class: ClassName=FPGA_PWR Member=Component C74 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C75 T491X687K006AT
+Added Member To Class: ClassName=Regulators Member=Component C76 
+Added Member To Class: ClassName=Regulators Member=Component C77 
+Added Member To Class: ClassName=Regulators Member=Component C78 
+Added Member To Class: ClassName=Regulators Member=Component C79 
+Added Member To Class: ClassName=Regulators Member=Component C80 
+Added Member To Class: ClassName=Regulators Member=Component C81 
+Added Member To Class: ClassName=Regulators Member=Component C82 
+Added Member To Class: ClassName=Regulators Member=Component C83 Cap
+Added Member To Class: ClassName=Regulators Member=Component C84 
+Added Member To Class: ClassName=Regulators Member=Component C85 
+Added Member To Class: ClassName=Regulators Member=Component C86 
+Added Member To Class: ClassName=Regulators Member=Component C87 
+Added Member To Class: ClassName=Regulators Member=Component C88 
+Added Member To Class: ClassName=Regulators Member=Component C89 
+Added Member To Class: ClassName=Regulators Member=Component C90 
+Added Member To Class: ClassName=Regulators Member=Component C91 
+Added Member To Class: ClassName=Regulators Member=Component C92 
+Added Member To Class: ClassName=Regulators Member=Component C93 
+Added Member To Class: ClassName=Regulators Member=Component C94 
+Added Member To Class: ClassName=Regulators Member=Component C95 
+Added Member To Class: ClassName=SFP Member=Component C96 
+Added Member To Class: ClassName=SFP Member=Component C97 Cap
+Added Member To Class: ClassName=SFP Member=Component C98 Cap
+Added Member To Class: ClassName=SFP Member=Component C99 
+Added Member To Class: ClassName=SFP Member=Component C100 Cap
+Added Member To Class: ClassName=SFP Member=Component C101 Cap
+Added Member To Class: ClassName=SFP Member=Component C102 
+Added Member To Class: ClassName=SFP Member=Component C103 Cap
+Added Member To Class: ClassName=SFP Member=Component C104 Cap
+Added Member To Class: ClassName=SFP Member=Component C105 
+Added Member To Class: ClassName=SFP Member=Component C106 Cap
+Added Member To Class: ClassName=SFP Member=Component C107 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C108 
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C109 
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C110 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C111 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C112 
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C113 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C114 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C115 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C116 GRM31CR60J107ME39
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C117 GRM31CR60J107ME39
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C118 GRM31CR60J107ME39
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C119 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C120 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C121 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C122 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C123 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C124 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C125 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C126 GRM188R60J226MEA0
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C127 GRM188R60J226MEA0
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C128 No Load
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C129 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C130 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C131 GRM188R60J226MEA0
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C132 GRM188R60J226MEA0
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C133 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C134 Cap
+Added Member To Class: ClassName=PWR_APD5052 Member=Component C135 Cap
+Added Member To Class: ClassName=Regulators Member=Component Cout10 Cap
+Added Member To Class: ClassName=Regulators Member=Component Cout11 Cap
+Added Member To Class: ClassName=Config Member=Component D1 LED2
+Added Member To Class: ClassName=IO Member=Component D2 ASMB-MTB0-0A3A2
+Added Member To Class: ClassName=IO Member=Component D3 ASMB-MTB0-0A3A2
+Added Member To Class: ClassName=Regulators Member=Component D8 MBR0530
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component IC1 DSC1123CI5-100.0000
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component IC2 DSC1123CE1-125.0000
+Added Member To Class: ClassName=FMC Member=Component J1 ASP-134603-01
+Added Member To Class: ClassName=SFP Member=Component J2 *
+Added Member To Class: ClassName=SFP Member=Component J3 *
+Added Member To Class: ClassName=PWR_APD5052 Member=Component L1 MSS1048-332NL
+Added Member To Class: ClassName=PWR_APD5052 Member=Component L2 MSS1048-152NL
+Added Member To Class: ClassName=PWR_APD5052 Member=Component L3 MSS1048-472NL
+Added Member To Class: ClassName=PWR_APD5052 Member=Component L4 MSS1048-472NL
+Added Member To Class: ClassName=Regulators Member=Component L5 Inductor
+Added Member To Class: ClassName=SFP Member=Component L6 SRP2512-4R7M
+Added Member To Class: ClassName=SFP Member=Component L7 SRP2512-4R7M
+Added Member To Class: ClassName=SFP Member=Component L8 SRP2512-4R7M
+Added Member To Class: ClassName=SFP Member=Component L9 SRP2512-4R7M
+Added Member To Class: ClassName=Config Member=Component P1 Jumper
+Added Member To Class: ClassName=Config Member=Component P2 JTAG
+Added Member To Class: ClassName=IO Member=Component P3 GPIO
+Added Member To Class: ClassName=IO Member=Component Q1 EM6K6T2R
+Added Member To Class: ClassName=PWR_APD5052 Member=Component Q2 SI7232DN-T1-GE3
+Added Member To Class: ClassName=Config Member=Component R1 Res
+Added Member To Class: ClassName=Config Member=Component R2 Res
+Added Member To Class: ClassName=Config Member=Component R3 Res
+Added Member To Class: ClassName=Config Member=Component R4 Res
+Added Member To Class: ClassName=Config Member=Component R5 Res
+Added Member To Class: ClassName=Config Member=Component R6 Res
+Added Member To Class: ClassName=Config Member=Component R7 Res
+Added Member To Class: ClassName=Config Member=Component R8 Res
+Added Member To Class: ClassName=Config Member=Component R9 Res
+Added Member To Class: ClassName=Config Member=Component R10 Res
+Added Member To Class: ClassName=Config Member=Component R11 Res
+Added Member To Class: ClassName=Config Member=Component R12 Res
+Added Member To Class: ClassName=Config Member=Component R13 Res
+Added Member To Class: ClassName=Config Member=Component R14 Res
+Added Member To Class: ClassName=Config Member=Component R15 Res
+Added Member To Class: ClassName=Config Member=Component R16 Res
+Added Member To Class: ClassName=FMC Member=Component R17 Res
+Added Member To Class: ClassName=FMC Member=Component R18 Res
+Added Member To Class: ClassName=FMC Member=Component R19 Res
+Added Member To Class: ClassName=FMC Member=Component R20 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R21 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R22 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R23 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R24 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R25 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R26 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R27 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R28 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R29 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R30 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R31 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R32 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R33 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R34 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R35 Res
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component R36 Res
+Added Member To Class: ClassName=FPGA_Banks2 Member=Component R37 Res
+Added Member To Class: ClassName=IO Member=Component R38 Res
+Added Member To Class: ClassName=IO Member=Component R39 Res
+Added Member To Class: ClassName=IO Member=Component R40 Res
+Added Member To Class: ClassName=IO Member=Component R41 Res
+Added Member To Class: ClassName=IO Member=Component R42 Res
+Added Member To Class: ClassName=IO Member=Component R43 Res
+Added Member To Class: ClassName=IO Member=Component R44 Res
+Added Member To Class: ClassName=IO Member=Component R45 Res
+Added Member To Class: ClassName=IO Member=Component R46 Res
+Added Member To Class: ClassName=IO Member=Component R47 Res
+Added Member To Class: ClassName=IO Member=Component R48 Res
+Added Member To Class: ClassName=IO Member=Component R49 Res
+Added Member To Class: ClassName=IO Member=Component R50 Res
+Added Member To Class: ClassName=IO Member=Component R51 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R52 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R53 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R54 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R55 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R56 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R57 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R58 Res
+Added Member To Class: ClassName=Regulators Member=Component R59 Res
+Added Member To Class: ClassName=Regulators Member=Component R60 Res
+Added Member To Class: ClassName=Regulators Member=Component R61 Res
+Added Member To Class: ClassName=Regulators Member=Component R62 Res
+Added Member To Class: ClassName=Regulators Member=Component R63 Res
+Added Member To Class: ClassName=Regulators Member=Component R64 Res
+Added Member To Class: ClassName=Regulators Member=Component R65 Res
+Added Member To Class: ClassName=SFP Member=Component R66 Res
+Added Member To Class: ClassName=SFP Member=Component R67 Res
+Added Member To Class: ClassName=SFP Member=Component R68 Res
+Added Member To Class: ClassName=SFP Member=Component R69 Res
+Added Member To Class: ClassName=SFP Member=Component R70 Res
+Added Member To Class: ClassName=SFP Member=Component R71 Res
+Added Member To Class: ClassName=SFP Member=Component R72 Res
+Added Member To Class: ClassName=SFP Member=Component R73 Res
+Added Member To Class: ClassName=SFP Member=Component R74 Res
+Added Member To Class: ClassName=SFP Member=Component R75 Res
+Added Member To Class: ClassName=SFP Member=Component R76 Res
+Added Member To Class: ClassName=SFP Member=Component R77 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R78 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R79 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R80 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R81 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R82 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R83 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R84 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R85 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R86 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R87 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R88 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R89 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R90 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R91 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R92 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R93 Res
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R94 Res
+Added Member To Class: ClassName=Regulators Member=Component Ren1 Res
+Added Member To Class: ClassName=Regulators Member=Component Ren2 Res
+Added Member To Class: ClassName=Regulators Member=Component Rf11 Res
+Added Member To Class: ClassName=Regulators Member=Component Rf12 Res
+Added Member To Class: ClassName=FMC Member=Component Rin1 Res
+Added Member To Class: ClassName=FMC Member=Component Rin2 Res
+Added Member To Class: ClassName=FMC Member=Component Rin3 Res
+Added Member To Class: ClassName=FMC Member=Component Rout1 Res
+Added Member To Class: ClassName=FMC Member=Component Rout2 Res
+Added Member To Class: ClassName=FMC Member=Component Rout3 Res
+Added Member To Class: ClassName=FMC Member=Component Rsense1 Res
+Added Member To Class: ClassName=FMC Member=Component Rsense2 Res
+Added Member To Class: ClassName=FMC Member=Component Rsense3 Res
+Added Member To Class: ClassName=Regulators Member=Component Rt2 Res
+Added Member To Class: ClassName=IO Member=Component S1 SW DIP-4
+Added Member To Class: ClassName=PWR_APD5052 Member=Component SW1 SW-SPDT
+Added Member To Class: ClassName=Config Member=Component U1 S25FL128SAGMFI001
+Added Member To Class: ClassName=Config Member=Component U3 PRTR5V0U4Y
+Added Member To Class: ClassName=Config Member=Component U4 24AA025E48T-I/OT
+Added Member To Class: ClassName=FMC Member=Component U5 LT6106CS5
+Added Member To Class: ClassName=FMC Member=Component U6 LT6106CS5
+Added Member To Class: ClassName=FMC Member=Component U7 LT6106CS5
+Added Member To Class: ClassName=FPGA_Banks1 Member=Component U8 XC7A35T-1FGG484C
+Added Member To Class: ClassName=IO Member=Component U9 PRTR5V0U4Y
+Added Member To Class: ClassName=IO Member=Component U10 PRTR5V0U4Y
+Added Member To Class: ClassName=PWR_APD5052 Member=Component U11 ADP5052
+Added Member To Class: ClassName=Regulators Member=Component U12 ADP123AUJZ-R7
+Added Member To Class: ClassName=Regulators Member=Component U13 ADP2384ACPZN-R7
+Added Member To Class: ClassName=Regulators Member=Component U14 ADP1752ACPZ-1.0-R7
+Added Member To Class: ClassName=Regulators Member=Component U15 ADP123AUJZ-R7
+Added Member To Class: ClassName=Regulators Member=Component U16 ADR127BUJZ-REEL7

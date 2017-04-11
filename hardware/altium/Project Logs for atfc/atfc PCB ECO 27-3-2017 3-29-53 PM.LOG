@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SFP2_RD_P Pin=J4-12
+Removed Pin From Net: NetName=SFP2_RD_N Pin=J4-13
+Added Pin To Net: NetName=SFP2_RD_N Pin=J4-12
+Added Pin To Net: NetName=SFP2_RD_P Pin=J4-13

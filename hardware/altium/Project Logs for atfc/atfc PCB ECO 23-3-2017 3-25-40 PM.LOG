@@ -1,0 +1,14 @@
+Added Component: Designator=SFPCAGE1(SFPcage)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-1
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-2
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-3
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-4
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-5
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-6
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-7
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-8
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-9
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-10
+Added Pin To Net: NetName=GND Pin=SFPCAGE1-11
+Added Member To Class: ClassName=SFP Member=Component SFPCAGE1 SFP+cage

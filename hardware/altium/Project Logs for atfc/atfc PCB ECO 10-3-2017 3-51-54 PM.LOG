@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=SW1 Old Footprint=TL36WW15050 New Footprint=MFP106D
+Change Component Comment : Designator=SW1 Old Comment=SW-SPDT New Comment=MFP106D
+Added Member To Class: ClassName=PWR_APD5052 Member=Component R58 Res

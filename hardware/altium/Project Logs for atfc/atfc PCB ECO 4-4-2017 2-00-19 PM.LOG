@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=SDA Pin=U2-A20
+Removed Pin From Net: NetName=SCL Pin=U2-B20
+Removed Pin From Net: NetName=SFP1_TX_FAULT Pin=U2-B22
+Removed Pin From Net: NetName=SYSCLK Pin=U2-C18
+Removed Pin From Net: NetName=SFP1_TX_EN Pin=U2-C22
+Added Pin To Net: NetName=SFP1_TX_EN Pin=U2-B17
+Added Pin To Net: NetName=SFP1_TX_FAULT Pin=U2-B18

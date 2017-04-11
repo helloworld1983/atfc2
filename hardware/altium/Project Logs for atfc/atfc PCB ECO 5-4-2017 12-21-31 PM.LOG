@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=GPIO1 Pin=U2-A13
+Removed Pin From Net: NetName=GPIO3 Pin=U2-A14
+Removed Pin From Net: NetName=GPIO4 Pin=U2-A15
+Removed Pin From Net: NetName=GPIO5 Pin=U2-A16
+Removed Pin From Net: NetName=SFP1_MOD_ABS Pin=U2-A18
+Removed Pin From Net: NetName=SFP1_TX_EN Pin=U2-A19
+Removed Pin From Net: NetName=SFP1_TX_FAULT Pin=U2-A20
+Removed Pin From Net: NetName=SFP1_SCL Pin=U2-A21
+Removed Pin From Net: NetName=GPIO6 Pin=U2-B15
+Removed Pin From Net: NetName=GPIO7 Pin=U2-B16
+Removed Pin From Net: NetName=SFP1_SDA Pin=U2-B20
+Removed Pin From Net: NetName=SFP1_LOS Pin=U2-B21
+Change Component Comment : Designator=P2 Old Comment= 87831-1420 New Comment=87831-1420
+Added Pin To Net: NetName=SFP1_MOD_ABS Pin=U2-A13
+Added Pin To Net: NetName=SFP1_TX_EN Pin=U2-A14
+Added Pin To Net: NetName=SFP1_TX_FAULT Pin=U2-A15
+Added Pin To Net: NetName=SFP1_SCL Pin=U2-A16
+Added Pin To Net: NetName=GPIO1 Pin=U2-A18
+Added Pin To Net: NetName=GPIO3 Pin=U2-A19
+Added Pin To Net: NetName=GPIO4 Pin=U2-A20
+Added Pin To Net: NetName=GPIO5 Pin=U2-A21
+Added Pin To Net: NetName=SFP1_SDA Pin=U2-B15
+Added Pin To Net: NetName=SFP1_LOS Pin=U2-B16
+Added Pin To Net: NetName=GPIO6 Pin=U2-B20
+Added Pin To Net: NetName=GPIO7 Pin=U2-B21

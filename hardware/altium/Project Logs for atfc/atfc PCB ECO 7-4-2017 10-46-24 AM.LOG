@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PGOOD_R Pin=U2-T21
+Removed Pin From Net: NetName=PRESNT_M2C Pin=U2-U22
+Added Pin To Net: NetName=PRESNT_M2C Pin=U2-T21
+Added Pin To Net: NetName=PGOOD_R Pin=U2-U22

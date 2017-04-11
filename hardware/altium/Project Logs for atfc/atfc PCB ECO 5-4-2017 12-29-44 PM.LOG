@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SFP2_SDA Pin=U2-B21
+Removed Pin From Net: NetName=SFP2_LOS Pin=U2-G22
+Added Pin To Net: NetName=SFP2_LOS Pin=U2-B21
+Added Pin To Net: NetName=SFP2_SDA Pin=U2-G22
