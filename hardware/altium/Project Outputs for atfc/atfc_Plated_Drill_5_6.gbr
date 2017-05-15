@@ -1,0 +1,9 @@
+G04 Layer_Color=0*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.FileFunction,Plated,5,6,Blind,Drill*%
+%TF.Part,Single*%
+G01*
+G75*
+%TF.MD5,bb530ba54484fdb1f7b5f44a7a7d9a30*%
+M02*
