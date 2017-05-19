@@ -1,0 +1,234 @@
+Export log for : atfc.Rep
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+      Warning: Unknown Kind 11
+AddingPadStyle (Default)
+AddingPadStyle P:EX0Y0D501
+AddingPadStyle EF25X25TOP1
+AddingPadStyle EF31X31TOP1
+AddingPadStyle EF24X39TOP1
+AddingPadStyle EF67X71TOP1
+AddingPadStyle EF10X10TOP1
+AddingPadStyle P:EX59Y59D391
+AddingPadStyle P:EX59Y59D392
+AddingPadStyle P:EX157Y79D01
+AddingPadStyle P:EX79Y157D01
+AddingPadStyle P:EX79Y177D01
+AddingPadStyle EF22X51TOP1
+AddingPadStyle EF24X22TOP1
+AddingPadStyle EF35X67TOP1
+AddingPadStyle EF24X37TOP1
+AddingPadStyle EF12X37TOP1
+AddingPadStyle EF83X83TOP1
+AddingPadStyle EF10X32TOP1
+AddingPadStyle EF106X59TOP1
+AddingPadStyle EF106X41TOP1
+AddingPadStyle EF220X220TOP1
+AddingPadStyle EF12X30TOP1
+AddingPadStyle EF24X17TOP1
+AddingPadStyle EF24X17TOP2
+AddingPadStyle EF24X43TOP1
+AddingPadStyle EF20X20TOP1
+AddingPadStyle EF79X24TOP1
+AddingPadStyle EF79X24TOP2
+AddingPadStyle P:EX106Y106D731
+AddingPadStyle EF24X87TOP1
+AddingPadStyle EF30X16TOP1
+AddingPadStyle EF39X16TOP1
+AddingPadStyle EF68X39TOP1
+AddingPadStyle EF14X18TOP1
+AddingPadStyle P:SX59Y59D351
+AddingPadStyle P:EX59Y59D351
+AddingPadStyle P:EX39Y39D391
+AddingPadStyle P:EX51Y51D351
+AddingPadStyle P:PX51Y51D351
+AddingPadStyle EF31X79TOP1
+AddingPadStyle P:EX60Y60D301
+AddingPadStyle EF140X70TOP1
+AddingPadStyle P:EX61Y61D611
+AddingPadStyle EF20X79TOP1
+AddingPadStyle EF35X39TOP1
+AddingPadStyle EF20X39TOP1
+AddingPadStyle EF36X48TOP1
+AddingPadStyle EF43X59TOP1
+AddingPadStyle EF28X51TOP1
+AddingPadStyle EF67X43TOP1
+AddingPadStyle EF98X79TOP1
+AddingPadStyle EF35X102TOP1
+AddingPadStyle EF61X51TOP1
+AddingPadStyle P:EX37Y37D371
+AddingPadStyle P:SX79Y79D411
+AddingPadStyle P:SX79Y79D371
+AddingPadStyle EF465X79TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX20Y20D81
+Adding ViaStyle V:EX20Y20D101
+Adding ViaStyle V:EX15Y15D71
+Adding ViaStyle V:EX16Y16D81
+Adding ViaStyle V:EX25Y25D101
+Adding TextStyle (Default)
+Adding TextStyle T:H60W10
+Adding TextStyle T:H25W5
+Adding TextStyle T:H20W5
+Adding TextStyle T:H16W4
+Adding TextStyle T:H50W3
+Adding TextStyle T:H12W1
+Adding TextStyle T:H30W5
+Adding TextStyle T:H40W8
+Adding PatternDef ASP-134603-01_1
+Adding PatternDef KP-1608QBC-D_1
+Adding PatternDef C0603_1
+Adding PatternDef LRMA1206_1
+Adding PatternDef KLD-0202_1
+Adding PatternDef LT-S5-5-TSOT-23_N_1
+Adding PatternDef C0402_1
+Adding PatternDef C1206_1
+Adding PatternDef ADI-UJ-6_N_1
+Adding PatternDef ADI-UJ-5_N_1
+Adding PatternDef CP-16-4_N_1
+Adding PatternDef CP_24_12_1
+Adding PatternDef CP_48_13_1
+Adding PatternDef SOT363_1
+Adding PatternDef MCHP-SOT-23-OT6_N_1
+Adding PatternDef FGG484_1
+Adding PatternDef SOIC16_1
+Adding PatternDef MFP106D_1
+Adding PatternDef SO8_N_1
+Adding PatternDef R0402_1
+Adding PatternDef R0603_1
+Adding PatternDef R0603_2
+Adding PatternDef 1212-8dual_1
+Adding PatternDef SOT-563_1
+Adding PatternDef HDR2X5_1
+Adding PatternDef 87831-1420_1
+Adding PatternDef HDR1X2_1
+Adding PatternDef SRP2512_1
+Adding PatternDef DR0608_1
+Adding PatternDef MSS1048_1
+Adding PatternDef SFP+20_1
+Adding PatternDef DSC1123_32_25_1
+Adding PatternDef SOD-123_1
+Adding PatternDef ASMB-MTB0-0A3A2_1
+Adding PatternDef C0805_1
+Adding PatternDef C1206_P_1
+Adding PatternDef C7343_1
+Adding PatternDef C1210_1
+Adding PatternDef B3S-1002_1
+Adding PatternDef SFPcage - dual_1
+Adding CompDef ASP-134603-01_1
+Adding CompDef KP-1608QBC-D_1
+Adding CompDef C0603_1
+Adding CompDef LRMA1206_1
+Adding CompDef KLD-0202_1
+Adding CompDef LT-S5-5-TSOT-23_N_1
+Adding CompDef C0402_1
+Adding CompDef C1206_1
+Adding CompDef ADI-UJ-6_N_1
+Adding CompDef ADI-UJ-5_N_1
+Adding CompDef CP-16-4_N_1
+Adding CompDef CP_24_12_1
+Adding CompDef CP_48_13_1
+Adding CompDef SOT363_1
+Adding CompDef MCHP-SOT-23-OT6_N_1
+Adding CompDef FGG484_1
+Adding CompDef SOIC16_1
+Adding CompDef MFP106D_1
+Adding CompDef SO8_N_1
+Adding CompDef R0402_1
+Adding CompDef R0603_1
+Adding CompDef R0603_2
+Adding CompDef 1212-8dual_1
+Adding CompDef SOT-563_1
+Adding CompDef HDR2X5_1
+Adding CompDef 87831-1420_1
+Adding CompDef HDR1X2_1
+Adding CompDef SRP2512_1
+Adding CompDef DR0608_1
+Adding CompDef MSS1048_1
+Adding CompDef SFP+20_1
+Adding CompDef DSC1123_32_25_1
+Adding CompDef SOD-123_1
+Adding CompDef ASMB-MTB0-0A3A2_1
+Adding CompDef C0805_1
+Adding CompDef C1206_P_1
+Adding CompDef C7343_1
+Adding CompDef C1210_1
+Adding CompDef B3S-1002_1
+Adding CompDef SFPcage - dual_1
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Poly Region Object Found On Layer InternalPlane1.
+      Warning: Unexpected Poly Region Object Found On Layer InternalPlane1.
+ 
+EndLog
