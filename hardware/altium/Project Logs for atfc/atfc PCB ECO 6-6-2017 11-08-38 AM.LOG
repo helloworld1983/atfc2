@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=FPGA_TCK Pin=P5-4
+Removed Pin From Net: NetName=FPGA_TDI Pin=P5-8
+Removed Pin From Net: NetName=FPGA_TDO Pin=P5-10
+Removed Pin From Net: NetName=FPGA_TMS Pin=P5-12
+Added Pin To Net: NetName=NetP2_10 Pin=P5-4
+Added Pin To Net: NetName=NetP2_8 Pin=P5-8
+Added Pin To Net: NetName=NetP2_6 Pin=P5-10
+Added Pin To Net: NetName=NetP2_4 Pin=P5-12

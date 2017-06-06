@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PMODB1_P Pin=U2-E13
+Removed Pin From Net: NetName=PMODB1_N Pin=U2-E14
+Added Pin To Net: NetName=PMODB1_N Pin=U2-D16
+Added Pin To Net: NetName=PMODB1_P Pin=U2-E16

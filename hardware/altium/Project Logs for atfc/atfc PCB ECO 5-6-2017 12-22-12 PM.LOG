@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetP3_2 Pin=U17-1
+Removed Pin From Net: NetName=NetP3_1 Pin=U17-3
+Removed Member From Class: ClassName=IO Member=P5
+Added Pin To Net: NetName=NetP3_1 Pin=U17-1
+Added Pin To Net: NetName=NetP3_2 Pin=U17-3
+Added Member To Class: ClassName=IO Member=Component P4 PMOD

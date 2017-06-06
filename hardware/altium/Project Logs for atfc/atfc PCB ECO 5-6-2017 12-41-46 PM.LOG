@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PMODA1_N Pin=U2-B22
+Removed Pin From Net: NetName=PMODA1_P Pin=U2-C22
+Removed Pin From Net: NetName=PMODA3_P Pin=U2-G21
+Removed Pin From Net: NetName=PMODA3_N Pin=U2-G22
+Added Pin To Net: NetName=PMODA3_N Pin=U2-B22
+Added Pin To Net: NetName=PMODA3_P Pin=U2-C22
+Added Pin To Net: NetName=PMODA1_P Pin=U2-G21
+Added Pin To Net: NetName=PMODA1_N Pin=U2-G22
