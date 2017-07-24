@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: atfc.GBR   12/6/2017  12:10:40 PM
+Gerber File Extension Report For: atfc.GBR   21/7/2017  4:45:17 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -12,14 +12,14 @@ Layer Extension     Layer Description
 .gbr                VCCO/Signal                             
 .gbr                VCCINT/VCCAUX                           
 .gbr                Bottom Side                             
-.gbr                Top Solder                              
-.gbr                Bottom Solder                           
+.gbr                Bottom Paste                            
 .gbr                Top Paste                               
 .gbr                Bottom Overlay                          
-.gbr                Bottom Paste                            
+.gbr                Top Solder                              
 .gbr                Top Overlay                             
-.gbr                Mechanical 1                            
+.gbr                Bottom Solder                           
 .gbr                Profile                                 
+.gbr                Non-plated through-hole drill file      
 .gbr                Plated through-hole drill file          
 .gbr                Blind or buried via drill file for drill pairs
 .gbr                Blind or buried via drill file for drill pairs

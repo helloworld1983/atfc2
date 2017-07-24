@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=L5 Old Footprint=SRP2512 New Footprint=IFSC-ER
+Change Component Footprint: Designator=L6 Old Footprint=SRP2512 New Footprint=IFSC-ER
+Change Component Footprint: Designator=L7 Old Footprint=SRP2512 New Footprint=IFSC-ER
+Change Component Footprint: Designator=L8 Old Footprint=SRP2512 New Footprint=IFSC-ER
+Change Component Comment : Designator=L5 Old Comment=SRP2512-4R7M New Comment=IFSC1008ABER4R7M01
+Change Component Comment : Designator=L6 Old Comment=SRP2512-4R7M New Comment=IFSC1008ABER4R7M01
+Change Component Comment : Designator=L7 Old Comment=SRP2512-4R7M New Comment=IFSC1008ABER4R7M01
+Change Component Comment : Designator=L8 Old Comment=SRP2512-4R7M New Comment=IFSC1008ABER4R7M01
+Change Component Comment : Designator=S1 Old Comment=SW DIP-4 New Comment=GDH04S04

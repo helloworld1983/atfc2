@@ -259,6 +259,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document14]
+DocumentPath=atfc.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document15]
+DocumentPath=PvLib.PvLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for atfc\atfc.DRR
 DItemRevisionGUID=
@@ -662,7 +696,7 @@ PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintS
 OutputType5=PCBDrawing
 OutputName5=Draftsman
 OutputDocumentPath5=
-OutputVariantName5=
+OutputVariantName5=[No Variations]
 OutputDefault5=0
 PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType6=PCBLIB Print
@@ -855,7 +889,7 @@ OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
 Configuration5_Name1=OutputConfigurationParameter1
-Configuration5_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPair0_Backdrill=True|PlotBackDrillingPair0_HighLayer=Top Layer|PlotBackDrillingPair0_LowLayer=Mid Layer 1|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_HighLayer=Top Layer|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_HighLayer=Mid Layer 1|PlotBlindViasPair1_LowLayer=Mid Layer 2|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_HighLayer=Internal Plane 1|PlotBlindViasPair2_LowLayer=Bottom Layer|PlotBlindViasPair3_Backdrill=False|PlotBlindViasPair3_HighLayer=Top Layer|PlotBlindViasPair3_LowLayer=Internal Plane 1|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=True|PlotDrillDrawingPair0_HighLayer=Top Layer|PlotDrillDrawingPair0_LowLayer=Mid Layer 1|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_HighLayer=Top Layer|PlotDrillDrawingPair1_LowLayer=Mid Layer 1|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_HighLayer=Mid Layer 1|PlotDrillDrawingPair2_LowLayer=Mid Layer 2|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_HighLayer=Internal Plane 1|PlotDrillDrawingPair3_LowLayer=Bottom Layer|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_HighLayer=Top Layer|PlotDrillDrawingPair4_LowLayer=Internal Plane 1|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_HighLayer=Top Layer|PlotDrillGuidePair0_LowLayer=Bottom Layer|PlotDrillGuidePair1_Backdrill=True|PlotDrillGuidePair1_HighLayer=Top Layer|PlotDrillGuidePair1_LowLayer=Mid Layer 1|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_HighLayer=Top Layer|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_HighLayer=Mid Layer 1|PlotDrillGuidePair3_LowLayer=Mid Layer 2|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_HighLayer=Internal Plane 1|PlotDrillGuidePair4_LowLayer=Bottom Layer|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_HighLayer=Top Layer|PlotDrillGuidePair5_LowLayer=Internal Plane 1|PlotDrillGuidePairs=False|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973834~1,16973835~1,16842754~1,16973832~1,16842753~1,16777217~1,16973831~1,16777218~1,16973833~1,16777219~1,16908289~1,16973830~1,16842751~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False
+Configuration5_Item1=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=3|OptimizeChangeLocationCommands=True|PlotBackDrillingPair0_Backdrill=True|PlotBackDrillingPair0_HighLayer=Top Layer|PlotBackDrillingPair0_LowLayer=Mid Layer 1|PlotBackDrillingPairs=False|PlotBlindViasPair0_Backdrill=False|PlotBlindViasPair0_HighLayer=Top Layer|PlotBlindViasPair0_LowLayer=Mid Layer 1|PlotBlindViasPair1_Backdrill=False|PlotBlindViasPair1_HighLayer=Mid Layer 1|PlotBlindViasPair1_LowLayer=Mid Layer 2|PlotBlindViasPair2_Backdrill=False|PlotBlindViasPair2_HighLayer=Internal Plane 1|PlotBlindViasPair2_LowLayer=Bottom Layer|PlotBlindViasPair3_Backdrill=False|PlotBlindViasPair3_HighLayer=Top Layer|PlotBlindViasPair3_LowLayer=Internal Plane 1|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=True|PlotDrillDrawingPair0_HighLayer=Top Layer|PlotDrillDrawingPair0_LowLayer=Mid Layer 1|PlotDrillDrawingPair1_Backdrill=False|PlotDrillDrawingPair1_HighLayer=Top Layer|PlotDrillDrawingPair1_LowLayer=Mid Layer 1|PlotDrillDrawingPair2_Backdrill=False|PlotDrillDrawingPair2_HighLayer=Mid Layer 1|PlotDrillDrawingPair2_LowLayer=Mid Layer 2|PlotDrillDrawingPair3_Backdrill=False|PlotDrillDrawingPair3_HighLayer=Internal Plane 1|PlotDrillDrawingPair3_LowLayer=Bottom Layer|PlotDrillDrawingPair4_Backdrill=False|PlotDrillDrawingPair4_HighLayer=Top Layer|PlotDrillDrawingPair4_LowLayer=Internal Plane 1|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_HighLayer=Top Layer|PlotDrillGuidePair0_LowLayer=Bottom Layer|PlotDrillGuidePair1_Backdrill=True|PlotDrillGuidePair1_HighLayer=Top Layer|PlotDrillGuidePair1_LowLayer=Mid Layer 1|PlotDrillGuidePair2_Backdrill=False|PlotDrillGuidePair2_HighLayer=Top Layer|PlotDrillGuidePair2_LowLayer=Mid Layer 1|PlotDrillGuidePair3_Backdrill=False|PlotDrillGuidePair3_HighLayer=Mid Layer 1|PlotDrillGuidePair3_LowLayer=Mid Layer 2|PlotDrillGuidePair4_Backdrill=False|PlotDrillGuidePair4_HighLayer=Internal Plane 1|PlotDrillGuidePair4_LowLayer=Bottom Layer|PlotDrillGuidePair5_Backdrill=False|PlotDrillGuidePair5_HighLayer=Top Layer|PlotDrillGuidePair5_LowLayer=Internal Plane 1|PlotDrillGuidePairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973833~1,16842754~1,16973832~1,16842753~1,16777217~1,16973831~1,16777218~1,16973834~1,16777219~1,16973830~1,16842751~1,16973835~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False
 OutputType6=ODB
 OutputName6=ODB++ Files
 OutputDocumentPath6=
@@ -975,36 +1009,40 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=\\http://printserver.hep.ucl.ac.uk:631\hep-mono
+TargetPrinter=\\print.ad.ucl.ac.uk\print-UCL
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=BOM_PartType
-OutputName1=Bill of Materials
+OutputType1=Script
+OutputName1=Script Output
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
-PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType2=ComponentCrossReference
-OutputName2=Component Cross Reference Report
+OutputType2=SimpleBOM
+OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
-OutputType3=ReportHierarchy
-OutputName3=Report Project Hierarchy
+OutputType3=SinglePinNetReporter
+OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-OutputType4=Script
-OutputName4=Script Output
+OutputType4=BOM_PartType
+OutputName4=Bill of Materials
 OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
-OutputType5=SimpleBOM
-OutputName5=Simple BOM
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration4_Name1=ColumnNameFormat
+Configuration4_Item1=CaptionAsName
+Configuration4_Name2=OutputConfigurationParameter1
+Configuration4_Item2=????
+OutputType5=ComponentCrossReference
+OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
 OutputVariantName5=[No Variations]
 OutputDefault5=0
-OutputType6=SinglePinNetReporter
-OutputName6=Report Single Pin Nets
+OutputType6=ReportHierarchy
+OutputName6=Report Project Hierarchy
 OutputDocumentPath6=
 OutputVariantName6=[No Variations]
 OutputDefault6=0
