@@ -1,0 +1,198 @@
+Added Component: Designator=P3(PMOD_12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(PMOD_12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R80(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R97(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R98(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R99(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R100(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R101(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R102(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R103(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R104(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R105(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R106(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R107(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R108(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R109(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R110(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R111(R0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOT363)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U17(SOT363)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=VCC3V3 Pin=P3-6
+Added Pin To Net: NetName=GND Pin=P3-11
+Added Pin To Net: NetName=VCC3V3 Pin=P3-12
+Added Pin To Net: NetName=GND Pin=P4-5
+Added Pin To Net: NetName=VCC3V3 Pin=P4-6
+Added Pin To Net: NetName=GND Pin=P4-11
+Added Pin To Net: NetName=VCC3V3 Pin=P4-12
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=VCC3V3 Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U17-2
+Added Pin To Net: NetName=VCC3V3 Pin=U17-5
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=R80-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=R98-2
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=R100-2
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=R102-2
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP3_7 Pin=P3-7
+Added Pin To Net: NetName=NetP3_7 Pin=R97-1
+Added Net: Name=NetP3_7
+Added Pin To Net: NetName=NetP3_8 Pin=P3-8
+Added Pin To Net: NetName=NetP3_8 Pin=R99-1
+Added Net: Name=NetP3_8
+Added Pin To Net: NetName=NetP3_9 Pin=P3-9
+Added Pin To Net: NetName=NetP3_9 Pin=R101-1
+Added Net: Name=NetP3_9
+Added Pin To Net: NetName=NetP3_10 Pin=P3-10
+Added Pin To Net: NetName=NetP3_10 Pin=R103-1
+Added Net: Name=NetP3_10
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=R104-2
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=R106-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=R108-2
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=R110-2
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP4_7 Pin=P4-7
+Added Pin To Net: NetName=NetP4_7 Pin=R105-1
+Added Net: Name=NetP4_7
+Added Pin To Net: NetName=NetP4_8 Pin=P4-8
+Added Pin To Net: NetName=NetP4_8 Pin=R107-1
+Added Net: Name=NetP4_8
+Added Pin To Net: NetName=NetP4_9 Pin=P4-9
+Added Pin To Net: NetName=NetP4_9 Pin=R109-1
+Added Net: Name=NetP4_9
+Added Pin To Net: NetName=NetP4_10 Pin=P4-10
+Added Pin To Net: NetName=NetP4_10 Pin=R111-1
+Added Net: Name=NetP4_10
+Added Pin To Net: NetName=PMODA1_N Pin=R98-1
+Added Pin To Net: NetName=PMODA1_N Pin=U2-B22
+Added Pin To Net: NetName=PMODA1_N Pin=U6-1
+Added Net: Name=PMODA1_N
+Added Pin To Net: NetName=PMODA1_P Pin=R80-1
+Added Pin To Net: NetName=PMODA1_P Pin=U2-C22
+Added Pin To Net: NetName=PMODA1_P Pin=U6-6
+Added Net: Name=PMODA1_P
+Added Pin To Net: NetName=PMODA2_N Pin=R102-1
+Added Pin To Net: NetName=PMODA2_N Pin=U2-D22
+Added Pin To Net: NetName=PMODA2_N Pin=U6-3
+Added Net: Name=PMODA2_N
+Added Pin To Net: NetName=PMODA2_P Pin=R100-1
+Added Pin To Net: NetName=PMODA2_P Pin=U2-E22
+Added Pin To Net: NetName=PMODA2_P Pin=U6-4
+Added Net: Name=PMODA2_P
+Added Pin To Net: NetName=PMODA3_N Pin=R99-2
+Added Pin To Net: NetName=PMODA3_N Pin=U2-G22
+Added Pin To Net: NetName=PMODA3_N Pin=U7-3
+Added Net: Name=PMODA3_N
+Added Pin To Net: NetName=PMODA3_P Pin=R97-2
+Added Pin To Net: NetName=PMODA3_P Pin=U2-G21
+Added Pin To Net: NetName=PMODA3_P Pin=U7-1
+Added Net: Name=PMODA3_P
+Added Pin To Net: NetName=PMODA4_N Pin=R103-2
+Added Pin To Net: NetName=PMODA4_N Pin=U2-G20
+Added Pin To Net: NetName=PMODA4_N Pin=U7-4
+Added Net: Name=PMODA4_N
+Added Pin To Net: NetName=PMODA4_P Pin=R101-2
+Added Pin To Net: NetName=PMODA4_P Pin=U2-H20
+Added Pin To Net: NetName=PMODA4_P Pin=U7-6
+Added Net: Name=PMODA4_P
+Added Pin To Net: NetName=PMODB1_N Pin=R106-1
+Added Pin To Net: NetName=PMODB1_N Pin=U5-3
+Added Net: Name=PMODB1_N
+Added Pin To Net: NetName=PMODB1_P Pin=R104-1
+Added Pin To Net: NetName=PMODB1_P Pin=U5-1
+Added Net: Name=PMODB1_P
+Added Pin To Net: NetName=PMODB2_N Pin=R110-1
+Added Pin To Net: NetName=PMODB2_N Pin=U5-4
+Added Net: Name=PMODB2_N
+Added Pin To Net: NetName=PMODB2_P Pin=R108-1
+Added Pin To Net: NetName=PMODB2_P Pin=U5-6
+Added Net: Name=PMODB2_P
+Added Pin To Net: NetName=PMODB3_N Pin=R107-2
+Added Pin To Net: NetName=PMODB3_N Pin=U17-3
+Added Net: Name=PMODB3_N
+Added Pin To Net: NetName=PMODB3_P Pin=R105-2
+Added Pin To Net: NetName=PMODB3_P Pin=U17-1
+Added Net: Name=PMODB3_P
+Added Pin To Net: NetName=PMODB4_N Pin=R111-2
+Added Pin To Net: NetName=PMODB4_N Pin=U17-4
+Added Net: Name=PMODB4_N
+Added Pin To Net: NetName=PMODB4_P Pin=R109-2
+Added Pin To Net: NetName=PMODB4_P Pin=U17-6
+Added Net: Name=PMODB4_P
+Added Member To Class: ClassName=IO Member=Component P3 PMOD
+Added Member To Class: ClassName=IO Member=Component P4 PMOD
+Added Member To Class: ClassName=IO Member=Component R80 Res
+Added Member To Class: ClassName=IO Member=Component R97 Res
+Added Member To Class: ClassName=IO Member=Component R98 Res
+Added Member To Class: ClassName=IO Member=Component R99 Res
+Added Member To Class: ClassName=IO Member=Component R100 Res
+Added Member To Class: ClassName=IO Member=Component R101 Res
+Added Member To Class: ClassName=IO Member=Component R102 Res
+Added Member To Class: ClassName=IO Member=Component R103 Res
+Added Member To Class: ClassName=IO Member=Component R104 Res
+Added Member To Class: ClassName=IO Member=Component R105 Res
+Added Member To Class: ClassName=IO Member=Component R106 Res
+Added Member To Class: ClassName=IO Member=Component R107 Res
+Added Member To Class: ClassName=IO Member=Component R108 Res
+Added Member To Class: ClassName=IO Member=Component R109 Res
+Added Member To Class: ClassName=IO Member=Component R110 Res
+Added Member To Class: ClassName=IO Member=Component R111 Res
+Added Member To Class: ClassName=IO Member=Component U5 PRTR5V0U4Y
+Added Member To Class: ClassName=IO Member=Component U17 PRTR5V0U4Y

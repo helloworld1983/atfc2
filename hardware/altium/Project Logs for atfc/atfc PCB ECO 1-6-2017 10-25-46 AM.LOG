@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC85_1 Pin=Q2-5_1
+Removed Pin From Net: NetName=NetC85_1 Pin=Q2-5_2
+Removed Pin From Net: NetName=NetC79_2 Pin=Q2-6_1
+Removed Pin From Net: NetName=NetC79_2 Pin=Q2-6_2
+Removed Pin From Net: NetName=SYSCLK Pin=U2-C20
+Removed Pin From Net: NetName=GND Pin=U13-4_1
+Removed Pin From Net: NetName=NetC105_1 Pin=U13-14_1
+Added Pin To Net: NetName=SYSCLK Pin=U2-D17

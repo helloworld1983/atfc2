@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Config Member=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Added Member To Class: ClassName=Config Member=Component P4 XMOD

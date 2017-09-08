@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=SYSCLK Pin=U2-C20
+Added Pin To Net: NetName=SYSCLK Pin=U2-D17
