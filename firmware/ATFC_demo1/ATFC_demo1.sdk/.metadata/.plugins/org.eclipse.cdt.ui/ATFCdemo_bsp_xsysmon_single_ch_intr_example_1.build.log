@@ -1,0 +1,21 @@
+14:06:31 **** Build of configuration Debug for project ATFCdemo_bsp_xsysmon_single_ch_intr_example_1 ****
+make all 
+'Building file: ../src/xsysmon_single_ch_intr_example.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xsysmon_single_ch_intr_example.o" -I../../ATFCdemo_bsp/microblaze_0/include -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/xsysmon_single_ch_intr_example.d" -MT"src/xsysmon_single_ch_intr_example.o" -o "src/xsysmon_single_ch_intr_example.o" "../src/xsysmon_single_ch_intr_example.c"
+'Finished building: ../src/xsysmon_single_ch_intr_example.c'
+' '
+'Building target: ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../ATFCdemo_bsp/microblaze_0/lib -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -Wl,--gc-sections -o "ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf"  ./src/xsysmon_single_ch_intr_example.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf  |tee "ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  13464	    340	   3300	  17104	   42d0	ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf
+'Finished building: ATFCdemo_bsp_xsysmon_single_ch_intr_example_1.elf.size'
+' '
+
+14:06:32 Build Finished (took 749ms)
+

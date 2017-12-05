@@ -1,0 +1,13 @@
+11:41:56 **** Build of configuration Debug for project atfc_demo_bsp_xgpio_low_level_example_1 ****
+make all 
+'Building file: ../src/xgpio_low_level_example.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xgpio_low_level_example.o" -I../../atfc_demo_bsp/microblaze_0/include -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -MMD -MP -MF"src/xgpio_low_level_example.d" -MT"src/xgpio_low_level_example.d" -o "src/xgpio_low_level_example.o" "../src/xgpio_low_level_example.c"
+../src/xgpio_low_level_example.c:58:21: fatal error: xgpio_l.h: No such file or directory
+ #include "xgpio_l.h"
+                     ^
+compilation terminated.
+make: *** [src/xgpio_low_level_example.o] Error 1
+
+11:41:57 Build Finished (took 282ms)
+

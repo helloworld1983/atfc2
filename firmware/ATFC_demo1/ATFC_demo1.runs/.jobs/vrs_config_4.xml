@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="system_axi_uartlite_0_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_axi_uartlite_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_selectio_wiz_0_2_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_selectio_wiz_0_2_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_selectio_wiz_0_3_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_selectio_wiz_0_3_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_microblaze_0_0_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_microblaze_0_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_iic_0_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_axi_iic_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_dlmb_v10_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_dlmb_v10_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_ilmb_v10_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_ilmb_v10_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_dlmb_bram_if_cntlr_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_dlmb_bram_if_cntlr_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_ilmb_bram_if_cntlr_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_ilmb_bram_if_cntlr_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_microblaze_0_axi_intc_0_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_microblaze_0_axi_intc_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_rst_clk_wiz_1_100M_0_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_rst_clk_wiz_1_100M_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_clk_wiz_1_0_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_clk_wiz_1_0_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_xbar_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_xbar_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="system_axi_gpio_0_1_synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_axi_gpio_0_1_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="system_axi_uartlite_0_1_synth_1"/>
+		<Parent Id="system_selectio_wiz_0_2_synth_1"/>
+		<Parent Id="system_selectio_wiz_0_3_synth_1"/>
+		<Parent Id="system_microblaze_0_0_synth_1"/>
+		<Parent Id="system_axi_iic_0_1_synth_1"/>
+		<Parent Id="system_dlmb_v10_1_synth_1"/>
+		<Parent Id="system_ilmb_v10_1_synth_1"/>
+		<Parent Id="system_dlmb_bram_if_cntlr_1_synth_1"/>
+		<Parent Id="system_ilmb_bram_if_cntlr_1_synth_1"/>
+		<Parent Id="system_microblaze_0_axi_intc_0_synth_1"/>
+		<Parent Id="system_rst_clk_wiz_1_100M_0_synth_1"/>
+		<Parent Id="system_clk_wiz_1_0_synth_1"/>
+		<Parent Id="system_xbar_1_synth_1"/>
+		<Parent Id="system_axi_gpio_0_1_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+	</Run>
+</Runs>
+

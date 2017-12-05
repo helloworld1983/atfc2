@@ -1,0 +1,117 @@
+
+*** Running vivado
+    with args -log system_xadc_wiz_0_0.vds -m64 -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_xadc_wiz_0_0.tcl
+
+
+****** Vivado v2017.2 (64-bit)
+  **** SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+  **** IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source system_xadc_wiz_0_0.tcl -notrace
+Starting RTL Elaboration : Time (s): cpu = 00:00:04 ; elapsed = 00:00:04 . Memory (MB): peak = 365.266 ; gain = 81.121
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0.vhd:98]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_axi_xadc' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0_axi_xadc.vhd:239]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_axi_lite_ipif' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_axi_lite_ipif.vhd:241]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_slave_attachment' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_slave_attachment.vhd:227]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_address_decoder' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_address_decoder.vhd:176]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized0' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized0' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized1' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized1' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized2' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized2' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized3' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized3' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized4' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized4' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized5' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized5' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized6' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized6' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized7' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized7' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized8' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized8' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized9' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized9' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized10' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized10' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized11' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized11' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized12' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized12' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized13' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized13' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized14' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized14' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized15' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized15' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized16' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized16' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized17' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized17' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized18' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized18' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized19' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized19' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized20' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized20' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized21' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized21' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized22' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized22' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized23' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized23' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized24' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized24' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized25' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_pselect_f__parameterized25' (1#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_pselect_f.vhd:167]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_address_decoder' (2#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_address_decoder.vhd:176]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_slave_attachment' (3#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_slave_attachment.vhd:227]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_axi_lite_ipif' (4#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/axi_lite_ipif_v1_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_axi_lite_ipif.vhd:241]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_xadc_core_drp' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0_xadc_core_drp.vhd:187]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_xadc_core_drp' (5#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0_xadc_core_drp.vhd:187]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_soft_reset' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_soft_reset.vhd:142]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_soft_reset' (6#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/proc_common_v3_30_a/hdl/src/vhdl/system_xadc_wiz_0_0_soft_reset.vhd:142]
+INFO: [Synth 8-638] synthesizing module 'system_xadc_wiz_0_0_interrupt_control' [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/interrupt_control_v2_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_interrupt_control.vhd:240]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_interrupt_control' (7#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/interrupt_control_v2_01_a/hdl/src/vhdl/system_xadc_wiz_0_0_interrupt_control.vhd:240]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0_axi_xadc' (8#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0_axi_xadc.vhd:239]
+INFO: [Synth 8-256] done synthesizing module 'system_xadc_wiz_0_0' (9#1) [c:/Users/smkilani/Documents/atfc/firmware/ATFC_demo/ATFC_demo.srcs/sources_1/bd/system/ip/system_xadc_wiz_0_0/system_xadc_wiz_0_0.vhd:98]
+Finished RTL Elaboration : Time (s): cpu = 00:00:15 ; elapsed = 00:00:15 . Memory (MB): peak = 440.414 ; gain = 156.270
+Finished RTL Optimization Phase 1 : Time (s): cpu = 00:00:15 ; elapsed = 00:00:15 . Memory (MB): peak = 440.414 ; gain = 156.270
+INFO: [Device 21-403] Loading part xc7a35tfgg484-1
+Constraint Validation Runtime : Time (s): cpu = 00:00:00 ; elapsed = 00:00:00.214 . Memory (MB): peak = 706.383 ; gain = 0.000
+Finished Constraint Validation : Time (s): cpu = 00:00:27 ; elapsed = 00:00:28 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished Loading Part and Timing Information : Time (s): cpu = 00:00:27 ; elapsed = 00:00:28 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished applying 'set_property' XDC Constraints : Time (s): cpu = 00:00:27 ; elapsed = 00:00:28 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished RTL Optimization Phase 2 : Time (s): cpu = 00:00:28 ; elapsed = 00:00:29 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished Cross Boundary and Area Optimization : Time (s): cpu = 00:00:30 ; elapsed = 00:00:31 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished Applying XDC Timing Constraints : Time (s): cpu = 00:00:44 ; elapsed = 00:00:45 . Memory (MB): peak = 706.383 ; gain = 422.238
+Finished Timing Optimization : Time (s): cpu = 00:00:45 ; elapsed = 00:00:46 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Technology Mapping : Time (s): cpu = 00:00:45 ; elapsed = 00:00:46 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished IO Insertion : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Renaming Generated Instances : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Rebuilding User Hierarchy : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Renaming Generated Ports : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Handling Custom Attributes : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+Finished Renaming Generated Nets : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+
+Report Cell Usage: 
++------+-----+------+
+|      |Cell |Count |
++------+-----+------+
+|1     |LUT1 |     2|
+|2     |LUT2 |    37|
+|3     |LUT3 |    23|
+|4     |LUT4 |    21|
+|5     |LUT5 |    50|
+|6     |LUT6 |    63|
+|7     |XADC |     1|
+|8     |FDRE |   205|
+|9     |FDSE |    30|
++------+-----+------+
+Finished Writing Synthesis Report : Time (s): cpu = 00:00:46 ; elapsed = 00:00:47 . Memory (MB): peak = 708.078 ; gain = 423.934
+synth_design: Time (s): cpu = 00:00:47 ; elapsed = 00:00:49 . Memory (MB): peak = 708.078 ; gain = 426.563

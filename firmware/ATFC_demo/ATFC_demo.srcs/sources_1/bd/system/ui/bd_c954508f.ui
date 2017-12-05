@@ -1,0 +1,80 @@
+{
+   guistr: "# # String gsaved with Nlview 6.6.8  2016-12-21 bk=1.3817 VDI=40 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port uart_rtl -pg 1 -y 580 -defaultsOSRD
+preplace port iic_rtl -pg 1 -y 50 -defaultsOSRD
+preplace port I_3V3_MON -pg 1 -y 550 -defaultsOSRD
+preplace port LA_17_n -pg 1 -y 1010 -defaultsOSRD
+preplace port reset_rtl -pg 1 -y 770 -defaultsOSRD
+preplace port LA_17_p -pg 1 -y 990 -defaultsOSRD
+preplace port Clk -pg 1 -y 700 -defaultsOSRD
+preplace port VADJ_I_MON -pg 1 -y 570 -defaultsOSRD
+preplace portBus LA_00_n -pg 1 -y 1130 -defaultsOSRD
+preplace portBus LA_00_p -pg 1 -y 1110 -defaultsOSRD
+preplace inst microblaze_0_local_memory|ilmb_v10 -pg 1 -lvl 1 -y 882 -defaultsOSRD
+preplace inst axi_iic_0 -pg 1 -lvl 5 -y 70 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 4 -y 1414 -defaultsOSRD
+preplace inst xadc_wiz_0 -pg 1 -lvl 5 -y 420 -defaultsOSRD
+preplace inst microblaze_0_axi_periph -pg 1 -lvl 4 -y 340 -defaultsOSRD
+preplace inst microblaze_0_local_memory|lmb_bram -pg 1 -lvl 3 -y 832 -defaultsOSRD
+preplace inst axi_gpio_0 -pg 1 -lvl 5 -y 720 -defaultsOSRD
+preplace inst microblaze_0_xlconcat -pg 1 -lvl 1 -y 490 -defaultsOSRD
+preplace inst microblaze_0_local_memory|dlmb_bram_if_cntlr -pg 1 -lvl 2 -y 802 -defaultsOSRD
+preplace inst mdm_1 -pg 1 -lvl 2 -y 880 -defaultsOSRD
+preplace inst microblaze_0_axi_intc -pg 1 -lvl 2 -y 680 -defaultsOSRD
+preplace inst rst_Clk_100M -pg 1 -lvl 1 -y 790 -defaultsOSRD
+preplace inst selectio_wiz_0 -pg 1 -lvl 5 -y 1130 -defaultsOSRD
+preplace inst microblaze_0 -pg 1 -lvl 3 -y 710 -defaultsOSRD
+preplace inst axi_uartlite_0 -pg 1 -lvl 5 -y 590 -defaultsOSRD
+preplace inst microblaze_0_local_memory|dlmb_v10 -pg 1 -lvl 1 -y 732 -defaultsOSRD
+preplace inst selectio_wiz_1 -pg 1 -lvl 1 -y 1040 -defaultsOSRD
+preplace inst microblaze_0_local_memory -pg 1 -lvl 4 -y 722 -defaultsOSRD
+preplace inst microblaze_0_local_memory|ilmb_bram_if_cntlr -pg 1 -lvl 2 -y 1002 -defaultsOSRD
+preplace netloc microblaze_0_local_memory|microblaze_0_dlmb 1 0 1 N
+preplace netloc microblaze_0_local_memory|microblaze_0_dlmb_cntlr 1 2 1 1880
+preplace netloc LA_17_p_1 1 0 1 NJ
+preplace netloc microblaze_0_axi_periph_M04_AXI 1 4 1 2120
+preplace netloc microblaze_0_local_memory|microblaze_0_ilmb_cntlr 1 2 1 1880
+preplace netloc microblaze_0_local_memory|microblaze_0_Clk 1 0 2 1350 802 1600
+preplace netloc axi_iic_0_iic2intc_irpt 1 0 6 10 100 NJ 100 NJ 100 NJ 100 2190J 140 2580
+preplace netloc microblaze_0_intr 1 1 1 410
+preplace netloc rst_Clk_100M_mb_reset 1 1 2 420 780 690J
+preplace netloc microblaze_0_Clk 1 0 5 0 700 420 580 670 580 1220 120 2160
+preplace netloc microblaze_0_local_memory|SYS_Rst_1 1 0 2 1360 812 1580
+preplace netloc microblaze_0_axi_periph_M03_AXI 1 4 1 N
+preplace netloc microblaze_0_intc_axi 1 1 4 430 110 NJ 110 NJ 110 2120
+preplace netloc microblaze_0_interrupt 1 2 1 N
+preplace netloc xadc_wiz_0_ip2intc_irpt 1 0 6 20 130 NJ 130 NJ 130 NJ 130 2170J 150 2580
+preplace netloc microblaze_0_ilmb_1 1 3 1 1190
+preplace netloc microblaze_0_local_memory|microblaze_0_dlmb_bus 1 1 1 1600
+preplace netloc microblaze_0_axi_dp 1 3 1 1200
+preplace netloc LA_17_n_1 1 0 1 NJ
+preplace netloc xlconstant_0_dout 1 4 1 2160J
+preplace netloc rst_Clk_100M_peripheral_aresetn1 1 1 4 400 480 NJ 480 1190 140 2180
+preplace netloc I_3V3_MON_1 1 0 5 0J 430 NJ 430 NJ 430 1230J 540 2150J
+preplace netloc microblaze_0_axi_periph_M01_AXI 1 4 1 2140
+preplace netloc microblaze_0_local_memory|microblaze_0_ilmb_bus 1 1 1 1590
+preplace netloc axi_uartlite_0_UART 1 5 1 NJ
+preplace netloc axi_iic_0_IIC 1 5 1 NJ
+preplace netloc selectio_wiz_0_data_out_to_pins_n 1 5 1 2590
+preplace netloc reset_rtl_0_1 1 0 1 NJ
+preplace netloc microblaze_0_axi_periph_M02_AXI 1 4 1 2140
+preplace netloc microblaze_0_dlmb_1 1 3 1 1210
+preplace netloc selectio_wiz_1_data_in_to_device 1 1 5 NJ 1040 NJ 1040 1200J 1210 NJ 1210 2580
+preplace netloc microblaze_0_local_memory|microblaze_0_ilmb 1 0 1 N
+preplace netloc microblaze_0_debug 1 2 1 680
+preplace netloc selectio_wiz_0_data_out_to_pins_p 1 5 1 2590
+preplace netloc mdm_1_debug_sys_rst 1 0 3 20 880 430J 820 670
+preplace netloc rst_Clk_100M_interconnect_aresetn 1 1 3 380J 240 NJ 240 N
+preplace netloc rst_Clk_100M_bus_struct_reset 1 1 3 390J 790 NJ 790 1180
+preplace netloc VADJ_I_MON_1 1 0 5 NJ 570 NJ 570 NJ 570 NJ 570 2130J
+levelinfo -pg 1 -20 200 550 940 1400 2390 2610 -top 0 -bot 1470
+levelinfo -hier microblaze_0_local_memory * 1470 1740 1980 *
+",
+}
+{
+   da_axi4_cnt: "13",
+   da_board_cnt: "4",
+   da_clkrst_cnt: "1",
+   da_mb_cnt: "4",
+}

@@ -1,0 +1,13 @@
+11:42:05 **** Build of configuration Debug for project gpio ****
+make all 
+'Building file: ../src/testperiph.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/testperiph.o" -I../../gpio_bsp/microblaze_0/include -mlittle-endian -mcpu=v9.5 -mxl-soft-mul -Wl,--no-relax -MMD -MP -MF"src/testperiph.d" -MT"src/testperiph.d" -o "src/testperiph.o" "../src/testperiph.c"
+../src/testperiph.c:36:19: fatal error: xgpio.h: No such file or directory
+ #include "xgpio.h"
+                   ^
+compilation terminated.
+make: *** [src/testperiph.o] Error 1
+
+11:42:06 Build Finished (took 295ms)
+

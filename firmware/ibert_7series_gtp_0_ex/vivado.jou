@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Mon Nov 13 11:41:31 2017
+# Process ID: 150548
+# Current directory: c:/Users/smkilani/Documents/atfc/firmware/ibert_7series_gtp_0_ex
+# Command line: vivado.exe -notrace -source c:/Users/smkilani/Documents/atfc/firmware/ibert_7series_gtp_0_ex/ibert_7series_gtp_0_ex.tcl
+# Log file: c:/Users/smkilani/Documents/atfc/firmware/ibert_7series_gtp_0_ex/vivado.log
+# Journal file: c:/Users/smkilani/Documents/atfc/firmware/ibert_7series_gtp_0_ex\vivado.jou
+#-----------------------------------------------------------
+start_gui
+source c:/Users/smkilani/Documents/atfc/firmware/ibert_7series_gtp_0_ex/ibert_7series_gtp_0_ex.tcl -notrace
+update_compile_order -fileset sources_1

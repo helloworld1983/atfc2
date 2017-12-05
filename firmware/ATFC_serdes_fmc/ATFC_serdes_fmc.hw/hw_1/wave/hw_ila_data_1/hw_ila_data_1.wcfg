@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/smkilani/Documents/atfc/firmware/ATFC_serdes_fmc/ATFC_serdes_fmc.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1024001fs"></ZoomEndTime>
+      <Cursor1Time time="258000fs"></Cursor1Time>
+   </zoom_setting>
+   <WVObjectSize size="17" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[0].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[0].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[0].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[10].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[10].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[10].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[11].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[11].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[11].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[12].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[12].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[12].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[13].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[13].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[13].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[14].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[14].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[14].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[15].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[15].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[15].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[16].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[16].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[16].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[1].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[1].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[1].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[2].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[2].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[2].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[3].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[3].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[3].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[4].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[4].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[4].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[5].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[5].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[5].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[6].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[6].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[6].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[7].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[7].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[7].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[8].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[8].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[8].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject db_ref_id="1" fp_name="g_GENERATE_FOR[9].serdesii/data_in_to_device" type="array">
+      <obj_property name="ElementShortName">g_GENERATE_FOR[9].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="ObjectShortName">g_GENERATE_FOR[9].serdesii/data_in_to_device[7:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+</wave_config>

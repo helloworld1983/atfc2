@@ -1,0 +1,13 @@
+11:57:30 **** Build of configuration Debug for project ATFCdemo_bsp_xiic_tempsensor_example_1 ****
+make all 
+'Building file: ../src/xiic_tempsensor_example.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xiic_tempsensor_example.o" -I../../ATFCdemo_bsp/microblaze_0/include -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/xiic_tempsensor_example.d" -MT"src/xiic_tempsensor_example.o" -o "src/xiic_tempsensor_example.o" "../src/xiic_tempsensor_example.c"
+../src/xiic_tempsensor_example.c:71:19: fatal error: xintc.h: No such file or directory
+ #include "xintc.h"
+                   ^
+compilation terminated.
+make: *** [src/xiic_tempsensor_example.o] Error 1
+
+11:57:30 Build Finished (took 485ms)
+

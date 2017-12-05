@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2015.4.2 (64-bit)
+# SW Build 1494164 on Fri Feb 26 04:18:56 MST 2016
+# IP Build 1491208 on Wed Feb 24 03:25:39 MST 2016
+# Start of session at: Wed Nov 22 16:56:13 2017
+# Process ID: 208884
+# Current directory: C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_ilmb_bram_if_cntlr_1_synth_1
+# Command line: vivado.exe -log system_ilmb_bram_if_cntlr_1.vds -mode batch -messageDb vivado.pb -notrace -source system_ilmb_bram_if_cntlr_1.tcl
+# Log file: C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_ilmb_bram_if_cntlr_1_synth_1/system_ilmb_bram_if_cntlr_1.vds
+# Journal file: C:/Users/smkilani/Documents/atfc/firmware/ATFC_demo1/ATFC_demo1.runs/system_ilmb_bram_if_cntlr_1_synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_ilmb_bram_if_cntlr_1.tcl -notrace

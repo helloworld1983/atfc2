@@ -1,0 +1,13 @@
+15:05:54 **** Incremental Build of configuration Debug for project test_bsp_xsysmon_polled_printf_example_1 ****
+make all 
+'Building file: ../src/xsysmon_polled_printf_example.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/xsysmon_polled_printf_example.o" -I../../test_bsp/microblaze_0/include -mlittle-endian -mcpu=v10.0 -mxl-soft-mul -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/xsysmon_polled_printf_example.d" -MT"src/xsysmon_polled_printf_example.o" -o "src/xsysmon_polled_printf_example.o" "../src/xsysmon_polled_printf_example.c"
+../src/xsysmon_polled_printf_example.c:72:21: fatal error: xsysmon.h: No such file or directory
+ #include "xsysmon.h"
+                     ^
+compilation terminated.
+make: *** [src/xsysmon_polled_printf_example.o] Error 1
+
+15:05:54 Build Finished (took 249ms)
+

@@ -1,0 +1,6 @@
+15:06:12 **** Incremental Build of configuration Debug for project hello_bsp_xgpio_low_level_example_1 ****
+make all 
+make: Nothing to be done for `all'.
+
+15:06:12 Build Finished (took 183ms)
+

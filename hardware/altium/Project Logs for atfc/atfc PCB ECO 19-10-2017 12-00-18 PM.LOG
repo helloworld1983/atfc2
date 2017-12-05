@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C93-1
+Removed Pin From Net: NetName=GND Pin=P6-1
+Removed Pin From Net: NetName=NetJ2_1 Pin=P6-2
+Removed Pin From Net: NetName=NetC85_1 Pin=Q2-5_1
+Removed Pin From Net: NetName=NetC85_1 Pin=Q2-5_2
+Removed Pin From Net: NetName=NetC79_2 Pin=Q2-6_1
+Removed Pin From Net: NetName=NetC79_2 Pin=Q2-6_2
+Removed Pin From Net: NetName=GND Pin=R71-1
+Removed Pin From Net: NetName=GND Pin=U13-4_1
+Removed Pin From Net: NetName=NetC105_1 Pin=U13-14_1
+Removed Member From Class: ClassName=PWR_APD5052 Member=C93
+Removed Member From Class: ClassName=PWR_APD5052 Member=C94
+Removed Member From Class: ClassName=PWR_APD5052 Member=P6
+Removed Member From Class: ClassName=PWR_APD5052 Member=R71
+Added Pin To Net: NetName=GND Pin=C91-1
+Added Pin To Net: NetName=GND Pin=C92-1
+Added Pin To Net: NetName=GND Pin=R70-1
